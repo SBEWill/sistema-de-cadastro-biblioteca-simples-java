@@ -78,9 +78,10 @@ Este projeto foi desenvolvido como um exercício prático de Programação Orien
 ## 👨‍💻 Autor
 
 | **Nome** | Willian Diniz Menezes |
-| **LinkedIn** | https://www.linkedin.com/in/willian-diniz-2360b74b/ |
-| **GitHub** | https://github.com/SBEWill |
 
+| **LinkedIn** | https://www.linkedin.com/in/willian-diniz-2360b74b/ |
+
+| **GitHub** | https://github.com/SBEWill |
 
 
 *Feito com ☕ e Java.*
